@@ -1,0 +1,26 @@
+/* src/styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+h1, h2 {
+    color: #4a90e2;
+}
+
+nav {
+    margin: 20px 0;
+}
+
+nav a {
+    text-decoration: none;
+    color: #4a90e2;
+    margin-right: 10px;
+}
+
+nav a:hover {
+    color: #006bb3;
+}
